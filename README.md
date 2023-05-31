@@ -6,4 +6,4 @@ CRUD de Usuarios del sistema
 
 ## Funciones
 ---------------
-Crear Usuarios
+Crear Usuario
